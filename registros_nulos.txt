@@ -1,0 +1,12 @@
+======================================================================
+BITACORA DE REGISTROS NULOS - ETL ventas_sucursales.xlsx
+Filas eliminadas por contener uno o mas valores nulos
+======================================================================
+
+Total de filas con valores nulos: 4
+
+ id_venta      fecha  id_cliente  id_producto  cantidad   sucursal
+        5 04/09/2026        <NA>          102         3 Cochabamba
+        6        NaN           2          103        -1     La Paz
+       12        NaN           2          103         2 Cochabamba
+       14 11/09/2026           3          102      <NA>       <NA>
